@@ -1,5 +1,5 @@
 """100 days python challenge day 5. 
-
+Python Basics - Lists	Append, insert, and remove elements from a list.
 """
 
 # Create an empty list
