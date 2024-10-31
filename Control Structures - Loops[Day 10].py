@@ -1,3 +1,7 @@
+
+'''                  100 days python Challenge
+Day 10	Control Structures - Loops	Use a for loop to iterate through a list.'''
+
 # List of dictionaries representing students and their grades
 students = [
     {"name": "Alice", "grades": [85, 90, 88, 92]},
